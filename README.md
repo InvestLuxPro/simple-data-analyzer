@@ -16,6 +16,9 @@ A Python program that analyzes numeric data and provides summary statistics such
 - Displays the total number of values entered
 - Includes input validation
 
+## Requirements
+- Python 3.x
+
 ## Technologies Used
 
 - Python 3
