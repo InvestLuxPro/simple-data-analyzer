@@ -63,6 +63,6 @@ This project demonstrates:
 - Basic data analysis concepts
 
 ## Author
-Anthony Bowser Jr
+Anthony Bowser Jr  
 Computer Science Student  
 Southern New Hampshire University
