@@ -18,7 +18,7 @@ A Python program that analyzes numeric data and provides summary statistics such
 
 ## Technologies Used
 
-- Python
+- Python 3
 
 ## Project Structure
 
@@ -42,10 +42,10 @@ python simple_data_analyzer.py
 
 The program asks the user to enter numbers separated by commas, such as:
 
+Example input:
 ```text
 10, 25, 7, 42, 18
 ```
-
 It then calculates and displays:
 - Count
 - Total
