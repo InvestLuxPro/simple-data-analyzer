@@ -1,6 +1,6 @@
 # Simple Data Analyzer
 
-A Python program that analyzes a set of user-entered numbers and provides summary statistics such as count, total, average, highest value, and lowest value.
+A Python program that analyzes numeric data and provides summary statistics such as count, total, average, highest value, and lowest value.
 
 ## Program Screenshot
 
